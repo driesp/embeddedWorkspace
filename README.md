@@ -1,0 +1,2 @@
+# embeddedWorkspace
+Embedded workspace
